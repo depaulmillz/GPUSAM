@@ -1,0 +1,7 @@
+/venv
+/.cache
+/.ipynb_checkpoints
+.DS_STORE
+/compile_commands.json
+/build
+/.clangd
